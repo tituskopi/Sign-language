@@ -1,0 +1,10 @@
+0 bad
+1 bathroom
+2 good  
+3 help  
+4 hi  
+5 no  
+6 phonecall  
+7 thankyou  
+8 water  
+9 yes
